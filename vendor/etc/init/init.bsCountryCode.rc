@@ -1,0 +1,6 @@
+#Add CountryCode service to init process
+service bsCountryCode /vendor/bin/bsCountryCodeSrv
+    class main
+    user root
+    group root system vendor_qti_diag
+    oneshot
