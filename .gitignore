@@ -1,0 +1,11 @@
+vendor/etc/dts/dts-eagle.lic
+vendor/data-app/SharkMan/SharkMan.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+system/system/apex/com.android.vndk.current.apex
+system/system/app/BsSound/BsSound.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system_ext/priv-app/Settings/Settings.apk
+boot.img
+modem.img
